@@ -123,16 +123,16 @@ export default {
                 display: inline-block;
                 padding: 0 6px;
                 margin: 0 6px 0 0;
-                background: #b1b3b3;
-                color: #1e1e1e;
+                background: #f1f1f1;
+                color: #a4a4a4;
                 height: 22px;
                 line-height: 22px;
                 font-weight: normal;
                 cursor: pointer;
-                &.selected {
-                    color: #017E66;
-                    background-color: rgba(1, 126, 102, 0.08);
-                }
+                // &.selected {
+                //     color: #017E66;
+                //     background-color: rgba(1, 126, 102, 0.08);
+                // }
             }
             .date-text {
                 float: right;
